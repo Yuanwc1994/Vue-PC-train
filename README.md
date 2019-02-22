@@ -1,2 +1,2 @@
-# vue-train
-vue2.0 train （PC端）
+# Vue-PC-train
+Vue2.0 train （PC端）
