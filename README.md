@@ -1,6 +1,6 @@
-# vue-train
+# vue-pc-train
 
-> a vue.js train in 2019.1.7
+> a vue2.0 train in 2019.1.7 pc端
 
 ## Build Setup
 
